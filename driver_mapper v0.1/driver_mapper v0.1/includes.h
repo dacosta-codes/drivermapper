@@ -1,0 +1,9 @@
+#pragma once
+#include <iostream>
+#include <fstream>
+#include <filesystem>
+#include <Windows.h>
+#include <vector>
+#include <thread>
+#include <chrono>
+#include <winternl.h>
