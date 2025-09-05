@@ -1,0 +1,13 @@
+﻿  driver_mapper v0.1.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  intelDriverLoader.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  portableExecutable.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.44.35207\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\dacos\source\repos\driver_mapper v0.1\driver_mapper v0.1\portableExecutable.cpp(6,15): error C3083: 'filesystem': the symbol to the left of a '::' must be a type
+C:\Users\dacos\source\repos\driver_mapper v0.1\driver_mapper v0.1\portableExecutable.cpp(6,27): error C2039: 'exists': is not a member of 'std'
+      C:\Program Files\Microsoft Visual Studio\2022\Preview\VC\Tools\MSVC\14.44.35207\include\chrono(45,1):
+      see declaration of 'std'
+  
+C:\Users\dacos\source\repos\driver_mapper v0.1\driver_mapper v0.1\portableExecutable.cpp(6,27): error C3861: 'exists': identifier not found
+  Generating Code...
